@@ -49,7 +49,7 @@ let persons = [
 
 // Getting all persons
 app.get("/api/persons", (req, res) => {
-  res.status(200).json(persons);
+  res.send(persons);
 });
 
 // Getting person info

@@ -1,3 +1,3 @@
 # fso-yt-step10
 
-Link to deployed application - https://fso-yt-step10.onrender.com/
+Link to deployed backend - https://fso-yt-step10.onrender.com
